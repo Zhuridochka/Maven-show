@@ -2,6 +2,10 @@
 
 🔗 **Demo** : https://zhuridochka.github.io/Maven-show/home.html
 
+## Screenshots
+![](./previews/maven_02.jpg)
+![](./previews/maven_03.jpg)
+
 ## What is implemented
 - 1:1 layout to the layout — indents, fonts, colors
 - Adaptive from 1920px to 320px
